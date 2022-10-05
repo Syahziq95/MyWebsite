@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #027373;
+  font-size: 300%;
+  font-family: 'Architects Daughter', cursive;
+}
+
+h2 {
+  color: #027373;
+  font-size: 100%;
+  font-family: 'Quicksand', sans-serif;
+}
+
+p {
+  color: #F2E7DC;
+  width: 60%;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  margin: 50px auto;
+}
+
+.header {
+  background-color: #F2E7DC;
+  height: 500%;
+  padding-top: 50px;
+}
+
+.self {
+  width: 30%;
+  margin: 20px auto;
+}
+
+.contents {
+  background-color: #027373;
+  font-family: 'Architects Daughter', cursive;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #A9D9D0;
+}
+
+.contacts {
+  background-color: #0D0D0D;
+  height: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
